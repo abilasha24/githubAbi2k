@@ -1,2 +1,0 @@
-this is teat3.txt file
-this is 3rd file
